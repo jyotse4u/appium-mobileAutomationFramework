@@ -11,7 +11,7 @@ Framework for Mobile test automation (Native app and Browser) on Android and IOS
 2) Install [NodeJS](https://nodejs.org/en/download/)
 3) Install [Android studio](https://developer.android.com/studio)
 4) Install Appium Server using npm (CLI) command `npm install -g appium`. Appium server version 1.22.1
-
+test
 ```
 Command to check the installed appium version: `appium --version`
 ```
